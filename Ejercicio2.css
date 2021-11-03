@@ -1,0 +1,35 @@
+.victoria,.derrota{
+    width: 80px; 
+    height: 30px; 
+    padding: 0.5em; 
+    float: left; 
+    margin: 10px 10px 10px 0; 
+    border: black solid 1px;
+}
+#droppable { 
+    width: 600px; 
+    height: 300px; 
+    padding: 0.5em; 
+    float: left; 
+    margin: 10px; 
+}
+
+button{
+
+    margin-left: -400px;
+    margin-top: 350px;
+
+}
+
+#letra{ 
+
+    width:60px; 
+    height: 60px; 
+    padding: 0.5em; 
+    float: left; 
+    margin-right: -30px;
+    margin: 10px 10px 10px 0; 
+    border: black solid 1px;
+    font-size: 50px;
+    text-align: center;
+}
